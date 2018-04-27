@@ -1,0 +1,25 @@
+[{
+    "tit":[{
+            "img":"../img/ban1.jpg"
+        },{
+            "img":"../img/ban1.jpg"
+        },{
+            "img":"../img/ban1.jpg"
+        }],
+    "list":[{
+            "icon":"icon iconfont icon-anzhuo",
+            "ion":"活动频道"
+        },
+        {
+            "icon":"icon iconfont icon-anzhuo",
+            "ion":"活动频道"
+        },
+        {
+            "icon":"icon iconfont icon-anzhuo",
+            "ion":"活动频道"
+        },
+        {
+            "icon":"icon iconfont icon-anzhuo",
+            "ion":"活动频道"
+        }]
+}]
